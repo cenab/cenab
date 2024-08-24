@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About
-I am a Computer Science and Mathematics student from University of Alberta graduating in May 2023. 
+I am a Software Developer at Userful. I have graduated from University of Alberta in May 2023. 
 
 I love working on open-source software, and any problems related to AI/ML or Distributed Systems. 
 
