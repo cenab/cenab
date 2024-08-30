@@ -3,7 +3,7 @@
 ## About
 I am a Software Developer at Userful. I have graduated from University of Alberta in May 2023. 
 
-I love working on open-source software, and any problems related to AI/ML or Distributed Systems. 
+I love working on open-source software, and any problems related to AI/ML, Networking, and Media pipelines/streaming. 
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"><br />
