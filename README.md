@@ -43,13 +43,6 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
 
 ---
 
-## Featured Projects
-- **[Literature Review Tool](https://github.com/cenab/project-one)**: AI-powered tool for literature review automation, serving over 20,000 users.
-- **[AlphaMine](https://github.com/cenab/AlphaMine)**: A gaming AI project integrating AlphaZero with Minecraft for advanced intelligence.
-- **[SmartNPCs](https://github.com/cenab/SmartNPCs)**: Reinforcement learning and NLP-based agents for interactive game environments.
-
----
-
 ## Let’s Connect
 
 <p align="center">
