@@ -3,7 +3,7 @@
 ## About
 I am a Software Developer at Userful. I have graduated from University of Alberta in May 2023. 
 
-I love working on open-source software, and any problems related to AI/ML, Networking, and Media pipelines/streaming. 
+I love working on open-source software, and any problems related to AI/ML, Networks, and Media pipelines/streaming. 
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"><br />
@@ -19,7 +19,7 @@ I love working on open-source software, and any problems related to AI/ML, Netwo
 <a href="https://twitter.com/borabatu_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="linkedin.com/in/cenab/" target="_blank">
+<a href="https://www.linkedin.com/in/cenab" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p> 
