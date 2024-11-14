@@ -17,6 +17,7 @@
   <i>Always in a coding state of mind.</i>
 </p>
 
+<p align="center">
 <pre>
                        |b
                        ||
@@ -43,6 +44,7 @@
                         `"""""""      `|_/\ /
                                         '  '
 </pre>
+</p>
 
 ---
 
