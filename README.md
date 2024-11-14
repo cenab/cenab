@@ -43,11 +43,6 @@
 - **[AlphaMine](https://github.com/cenab/AlphaMine)** - My personal experiment integrating AlphaZero with Minecraft for advanced gaming AI.
 - **[SmartNPCs](https://github.com/cenab/SmartNPCs)** - AI-based agents using RL and NLP to interact with users in gaming environments.
 
----
-
-## 💬 Let’s Connect
-I'm always open to discussing interesting projects, research ideas, or collaboration opportunities. Feel free to reach out through any of the platforms below:
-
 <p align="center">
   <a href="mailto:batu.bora.tech@gmail.com"><img src="https://img.shields.io/badge/Email-batu.bora.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
