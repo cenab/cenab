@@ -38,18 +38,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cenab&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cenab&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cenab&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🛠 Projects
 - **[Project One](https://github.com/cenab/project-one)** - A unique AI-based tool for literature review automation, used by over 20,000 students and researchers.
 - **[AlphaMine](https://github.com/cenab/AlphaMine)** - My personal experiment integrating AlphaZero with Minecraft for advanced gaming AI.
