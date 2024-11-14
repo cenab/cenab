@@ -17,8 +17,6 @@
   <i>Always in a coding state of mind.</i>
 </p>
 
----
-
 ## About Me
 I'm a Software Developer at **Userful** with a passion for:
 - Open-source software
@@ -26,8 +24,6 @@ I'm a Software Developer at **Userful** with a passion for:
 - Networking and media pipelines/streaming
 
 Graduated from the **University of Alberta** in May 2023, I'm driven by challenges and love building solutions that make an impact.
-
----
 
 ## Tech Stack
 
@@ -40,8 +36,6 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
-
----
 
 ## Let’s Connect
 
