@@ -49,7 +49,7 @@
 I'm always open to discussing interesting projects, research ideas, or collaboration opportunities. Feel free to reach out through any of the platforms below:
 
 <p align="center">
-  <a href="mailto:cenab@example.com"><img src="https://img.shields.io/badge/Email-cenab@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:batu.bora.tech@gmail.com"><img src="https://img.shields.io/badge/Email-batu.bora.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
