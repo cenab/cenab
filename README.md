@@ -72,15 +72,6 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cenab&show_icons=true&theme=vue-dark&hide_border=true" width="45%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cenab&theme=vue-dark&hide_border=true" width="45%" alt="GitHub Streak">
-</p>
-
----
-
 ## Featured Projects
 - **[Literature Review Tool](https://github.com/cenab/project-one)**: AI-powered tool for literature review automation, serving over 20,000 users.
 - **[AlphaMine](https://github.com/cenab/AlphaMine)**: A gaming AI project integrating AlphaZero with Minecraft for advanced intelligence.
