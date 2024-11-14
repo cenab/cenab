@@ -17,8 +17,7 @@
   <i>Always in a coding state of mind.</i>
 </p>
 
-<pre align="center">
-  
+<pre>
                        |b
                        ||
                        ||,
