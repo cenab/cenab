@@ -13,32 +13,8 @@
 </p>
 
 <p align="center">
-<pre>
-                       |b
-                       ||
-                       ||,
-                       |'\
-                        |`|
-                        | `|
-                        '| |.
-                         | `L
-                         |  |,
-                         `|  |.                              _,/7
-                          |  `|                       __,---'' /
-                          |   `|              __,---'"   ..- ./
-                          ||   |      _.--=/'',--=-,,  -    ,/
-                          `|   \,/'''`\,     /'   >  \     /'
-                           | ,/'  `. .  `\ ,/'   / \  \   /'
-                   ___,----Y-'      Y     7'   .'.' `\ \ /'
-               _-/''        `\.     .   ,/'    /.'    `\\ 
-           _,-''          ---  \    `  /'    ./.'   __-' "
-        _/''     .--            `\    /'     /,'_--'
-     ,/''  ..                     `"\_     ./ /='etb
- .,/'                             .--"\    / / 
-<------------------,_____      ,/~'  \ | ./ .'
-                        `"""""""      `|_/\ /
-                                        '  '
-</pre>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding GIF"><br>
+  <i>Always in a coding state of mind.</i>
 </p>
 
 ---
@@ -82,11 +58,4 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
 
 <p align="center">
   <i>"Building solutions, one line of code at a time."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding GIF"><br>
-  <i>Always in a coding state of mind.</i>
 </p>
