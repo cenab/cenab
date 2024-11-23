@@ -16,6 +16,9 @@
   <a href="https://stackoverflow.com/users/17942159/cenab" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
+  <a href="mailto:cenab@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
@@ -42,20 +45,6 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
-
-## Let’s Connect
-
-<p align="center">
-  <a href="mailto:cenab@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://pypi.org/user/cenab/" target="_blank">
-    <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
-  </a>
-  <a href="https://stackoverflow.com/users/17942159/cenab" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  </a>
-</p>
 
 <p align="center">
   <i>"Building solutions, one line of code at a time."</i>
