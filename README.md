@@ -45,7 +45,3 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
-
-<p align="center">
-  <i>"Building solutions, one line of code at a time."</i>
-</p>
