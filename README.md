@@ -10,6 +10,12 @@
   <a href="https://www.linkedin.com/in/cenab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://pypi.org/user/cenab/" target="_blank">
+    <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
+  </a>
+  <a href="https://stackoverflow.com/users/17942159/cenab" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </p>
 
 <p align="center">
@@ -40,7 +46,15 @@ Graduated from the **University of Alberta** in May 2023, I'm driven by challeng
 ## Let’s Connect
 
 <p align="center">
-<a href="mailto:cenab@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:cenab@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://pypi.org/user/cenab/" target="_blank">
+    <img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI">
+  </a>
+  <a href="https://stackoverflow.com/users/17942159/cenab" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </p>
 
 <p align="center">
