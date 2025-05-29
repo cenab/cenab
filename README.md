@@ -31,7 +31,7 @@ I'm a Software Developer at **Userful** with a passion for:
 - AI/ML
 - Networking and media pipelines/streaming
 
-Graduated from the **University of Alberta** in May 2023, I'm driven by challenges and love building solutions that make an impact.
+Having graduated from the University of Alberta in May 2023, I thrive on challenges and am passionate about creating solutions that drive real impact.
 
 ## Tech Stack
 
